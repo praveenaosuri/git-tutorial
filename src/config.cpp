@@ -3,7 +3,7 @@ using namespace std;
 int main(){
 
     cout<<"In case if I don't see you tomorrow\n";
-    cout<<"Good Morning Good Afternoon And Good Bye";
-
+    cout<<"Good Morning Good Afternoon And Good Bye\n";
+         cout<<"Version 2 updated";
     return 0;
 }
